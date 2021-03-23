@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText heightText,weightText;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
